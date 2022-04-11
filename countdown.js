@@ -1,4 +1,4 @@
-var comingdate = new Date("Apr 14, 2022 00:00:00");
+var comingdate = new Date("Apr 14, 2022 00:00:00 UTC");
 
 var d = document.getElementById('d');
 var h = document.getElementById('h');
