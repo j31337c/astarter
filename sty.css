@@ -15,6 +15,14 @@ body{
   height: 100vh;
   position: relative;
 }
+
+.nft{
+  color: #41A4FF;
+  text-transform: uppercase;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+}
 .countdown-col{
   background: url("https:astarter.io/uploads/image/banenr/banner-1.png?ver202204011010") no-repeat center;
   background-size: cover;
