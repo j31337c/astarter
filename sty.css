@@ -16,6 +16,14 @@ body{
   position: relative;
 }
 
+#illustration {
+    grid-row: 3;
+    grid-column: 2;
+    align-self: center;
+    justify-self: center;
+    width: 100%;
+    padding: 10px;
+   }
 .nft{
   color: #41A4FF;
   width: 90%;
