@@ -26,7 +26,7 @@ body{
 #logo {
    
     animation: monitorIn 1s ease-in-out forwards; /* assign animation to monitor with 'monitorIn' as keyframe name */
-    opacity: 10;
+    opacity: 0;
     
      }
 
