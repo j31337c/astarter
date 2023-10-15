@@ -55,7 +55,7 @@ body{
 .time{
   color: #41A4FF;
   text-transform: uppercase;
-  width: 90%;
+  width: 100%;
   display: flex;
   justify-content: center;
 }
