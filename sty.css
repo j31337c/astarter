@@ -14,7 +14,7 @@ body{
 
 .center {
 
-  border: 5px solid;
+  border: 5px solid color: #41A4FF;
   position: fixed;
   top: 50%;
   left: 50%;
@@ -43,7 +43,7 @@ body{
    }
 .nft{
   color: #41A4FF;
-  width: 90%;
+  width: 100%;
   display: flex;
   justify-content: center;
 }
