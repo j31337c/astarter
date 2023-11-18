@@ -12,7 +12,7 @@
       brush        = new Image();
       
   // base64 Workaround because Same-Origin-Policy
-  image.src = 'JPs7JDGg_400x400.jpg' width=-'300' height='300'
+  image.src = 'awl-bird-300.png'
     image.onload = function() {
     ctx.drawImage(image, 0, 0);
     // Show the form when Image is loaded.
