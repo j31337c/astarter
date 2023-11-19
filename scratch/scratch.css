@@ -1,6 +1,7 @@
 body {
   padding: 20px 0;
   background-color: lightblue;
+  background-image: linear-gradient(lightblue, blue);
 }
 
 .container {
