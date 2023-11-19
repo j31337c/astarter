@@ -18,7 +18,8 @@ body {
 
 .canvas {
   position: absolute;
-  top: 0;
+ 
+  top: 40px; left: 40px;
 }
 
 .form {
