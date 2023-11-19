@@ -40,3 +40,8 @@ body {
 
 .button:hover {
   background-color: #226de6;
+
+.instruction
+  padding: 20px;
+  position: relative;
+  top: 320px; left: 20px;
