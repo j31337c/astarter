@@ -2,6 +2,7 @@ body {
   padding: 20px 0;
   width: 500; 
   height: 500;
+  background-color: lightblue;
 }
 
 .container {
