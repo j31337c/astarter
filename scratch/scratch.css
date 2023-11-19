@@ -44,6 +44,6 @@ body {
 
 .instruction {
   padding: 20px;
-  position: absolute;
+  position: relative;
   top: 420px; left: 20px;
 }
