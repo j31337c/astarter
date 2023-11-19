@@ -44,7 +44,7 @@ body {
 
 .instruction {
   background-color: blue;
-   text-decoration-color: #ffffff;
+ color: #ffffff;
   padding: 20px;
   position: absolute;
   top: 360px; left: 0px;
