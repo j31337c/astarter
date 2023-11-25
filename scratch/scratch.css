@@ -21,6 +21,11 @@ body {
    top: 0;
 }
 
+.reveal {
+   background-image: url("awl-bird-300.png");
+  padding: 20px;
+}
+
 .form {
    background-image: url("awl-bird-300.png");
   padding: 20px;
