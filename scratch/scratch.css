@@ -27,7 +27,9 @@ body {
 }
 
 .form {
-     background: -webkit-linear-gradient rgba(29, 38, 113, 0.8);
+   background: rgba(29, 38, 113, 0.8);
+
+  background: -webkit-linear-gradient rgba(29, 38, 113, 0.8);
 
   color: white;
  padding: 20px;
