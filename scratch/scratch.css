@@ -30,6 +30,9 @@ body {
   background: rgba(29, 38, 113, 0.3);
   color: white;
  padding: 20px;
+  width: 300px;
+  height: 100px;
+  top: 200px; left: 0px;
 }
 
 .button {
