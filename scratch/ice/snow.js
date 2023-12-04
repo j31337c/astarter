@@ -40,6 +40,4 @@ window.addEventListener("load", () => {
   setTimeout(removeSnow, (1000 * 60))
 });
 
-window.addEventListener("click", () => {
-  removeSnow()
-});
+
