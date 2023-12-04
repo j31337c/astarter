@@ -8,16 +8,7 @@ body {
   margin: 0;
 }
 
-main {
-  background: linear-gradient(to bottom, #2d91c2 0%, #1e528e 100%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: "Pacifico", cursive;
-  height: 100vh;
-  padding: 20px;
-  text-align: center;
-}
+
 
 h1 {
   color: white;
