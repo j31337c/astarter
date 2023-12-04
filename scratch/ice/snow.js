@@ -14,6 +14,7 @@ const getRandomStyles = () => {
     top: -${top}%;
     left: ${left}%;
     font-size: ${size}px;
+    animation-duration: ${dur}s;
     
   `;
 }
@@ -32,7 +33,7 @@ const removeSnow = () => {
   snowContainer.style.opacity = "0";
   setTimeout(() => {
     snowContainer.remove()
-  }, 500)
+  }, 5500)
 }
 
 window.addEventListener("load", () => {
