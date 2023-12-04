@@ -1,8 +1,8 @@
 body {
-background: #1e528e;
-  padding: 20px 0;
-
+  margin: 0;
 }
+
+
 main {
   background: linear-gradient(to bottom, #2d91c2 0%, #1e528e 100%);
    padding: 20px 0;
