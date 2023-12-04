@@ -14,7 +14,7 @@ const getRandomStyles = () => {
     top: -${top}%;
     left: ${left}%;
     font-size: ${size}px;
-    animation-duration: ${dur}s;
+    
   `;
 }
 
