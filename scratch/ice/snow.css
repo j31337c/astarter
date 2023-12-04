@@ -4,15 +4,11 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-}
+ 
 
 
 
-h1 {
-  color: white;
-}
+ 
 
 #snow-container {  
   height: 100vh;
