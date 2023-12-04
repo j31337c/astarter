@@ -12,7 +12,7 @@
       brush        = new Image();
       
   // base64 Workaround because Same-Origin-Policy
-  image.src = 'https//astarter.app/scratch/img/bird-scratchcard.png'
+  image.src = 'bird-scratchcard.png'
     image.onload = function() {
     ctx.drawImage(image, 0, 0);
     // Show the form when Image is loaded.
