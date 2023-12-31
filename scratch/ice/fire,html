@@ -1,1 +1,43 @@
+<!--
+https://github.com/andreruffert/scratchie.js
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>   
+    <link href="icescratch.css?version=1" rel="stylesheet" type="text/css"/>
+ <link href="fire,css?version=1" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <h1>Happy New Year <br> 2024</h1>
+<div id="root">
 
+
+
+    <div class="container" id="js-container">
+ <canvas class="canvas" id="js-canvas" width="300" height="300"></canvas>
+   <div class="reveal">
+<div class="form">
+     <h2>'Woot, 'Woot!</h2>
+     
+      <h3>The AWL code is:</h3>
+     <h1><code>ICEAWL</code></h1>   
+
+  <div> 
+     <a href="https://nft.astarter.app/#benefits"><button class="button">AWL Form</button></a>
+  </div>
+
+</div></div>
+  <div class="instruction"> <div class="form">
+
+<h3>Instructions</h3>
+<h4>1) Scratch image to reveal AWL code </h4>
+   <h4>2) Enter the code and complete the AWL Form</h4>
+   <a href="https://nft.astarter.app" style="color: white;">nft.astater.app</a>
+ 
+    
+ </div> </div></div></div>
+
+      <script src="icescratch.js"></script>
+  <script src="fire.js"></script>
+  </body>
+ 
