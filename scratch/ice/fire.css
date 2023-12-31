@@ -1,25 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
-body {
-    background: #000;
-    overflow: hidden;
-    margin: 0;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    #071b26 0%,
+    #071b26 50%,
+    #8a3b12 90%,
+    #240e03 100%
+  );
 }
 
-h1 {
-    font-size: 3.5rem;
-    color: white;
-    z-index: 1000;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    font-family: 'Montserrat',
-        sans-serif;
-    text-transform: uppercase;
+.container {
+  height: 100dvh;
+  width: 100dvw;
+  display: flex;
+  justify-content: center;
+  align-items: end;
 }
 
-canvas {
-    background: #000;
+.btn {
+  padding: 5px 10px;
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  width: max-content;
+  margin-bottom: 40px;
+  z-index: 100;
+  cursor: pointer;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  gap: 5px;
+}
+
+.fire-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.fire-count {
+  width: 50px;
 }
