@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+
+body {
+	background: #3da1d1;
+	color: #fff;
+	overflow: hidden;
+}
+
+.congrats-og {
+	position: absolute;
+	top: 140px;
+	width: 550px;
+	height: 100px;
+	padding: 20px 10px;
+	text-align: center;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+}
+
+ 
