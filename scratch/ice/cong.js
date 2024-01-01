@@ -105,11 +105,11 @@ function reset() {
 		TweenMax.set($(this), { x: 0, y: 0, opacity: 1 });
 	});
 	
-	TweenMax.set($('form'), { scale: 1, opacity: 1, rotation: 0 });
+	TweenMax.set($('h1'), { scale: 1, opacity: 1, rotation: 0 });
 }
 
 function animateText() {
-		TweenMax.from($('form'), 0.8, {
+		TweenMax.from($('.congrats h1'), 0.8, {
 		scale: 0.4,
 		opacity: 0,
 		rotation: 15,
