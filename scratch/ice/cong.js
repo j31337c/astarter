@@ -109,7 +109,7 @@ function reset() {
 }
 
 function animateText() {
-		TweenMax.from($('h1'), 0.8, {
+		TweenMax.from($('form'), 0.8, {
 		scale: 0.4,
 		opacity: 0,
 		rotation: 15,
