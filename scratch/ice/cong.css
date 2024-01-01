@@ -26,8 +26,8 @@ body {
 	width: 50px;
 	color: #ffcc00;
 	position: absolute;
-	top: 45%;
-	left: 45%;
+	top: 25%;
+	left: 25%;
 	z-index: 1;
 	font-size: 30px;
 	display: none;	
