@@ -19,3 +19,14 @@ body {
 }
 
  
+.blob {
+	height: 50px;
+	width: 50px;
+	color: #ffcc00;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	z-index: 1;
+	font-size: 30px;
+	display: none;	
+}
