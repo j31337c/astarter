@@ -84,7 +84,7 @@ $(function() {
 	var numberOfStars = 20;
 	
 	for (var i = 0; i < numberOfStars; i++) {
-	  $('.congrats').append('<div class="blob fab fa-bitcoin fa-bitcoin ' + i + '"></div>');
+	  $('.congrats').append('<div class="blob A ' + i + '"></div>');
 	}	
 
 	animateText();
