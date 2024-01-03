@@ -83,7 +83,7 @@ $(function() {
 	var numberOfStars = 20;
 	
 	for (var i = 0; i < numberOfStars; i++) {
-	  $('.congrats').append('<div class="blob fa fa-star ' + i + '"></div>');
+	  $('.congrats').append('<div class="blob fa-solid fa-austral-sign ' + i + '"></div>');
 	}	
 
 	animateText();
